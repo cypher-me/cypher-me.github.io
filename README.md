@@ -29,11 +29,11 @@
 </p>
 
 <!-- More Info -->
-
+<!-- https://www.linkedin.com/in/emmanuel-ngugi-62917124b/ -->
 <!-- Social -->
 
 <p align="center">
- <a href="https://www.linkedin.com/in/emmanuel-ngugi-62917124b" target="_blank">
+ <a href="https://www.linkedin.com/in/emmanuel-ngugi-62917124b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="cypher-me"/>
  </a>
  <a href="https://twitter.com/Cypher_me8" target="_blank">
@@ -91,8 +91,8 @@
 <!--  -->
 
 ## Top Open Source -
-[![merge-pdfs](https://github-readme-stats.vercel.app/api/pin/?username=cypher-me&repo=merge-pdfs&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/cypher-me/itasks)
-[![learningc](https://github-readme-stats.vercel.app/api/pin/?username=cypher-me&repo=learningc&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/cypher-me/urfolio)
+[![merge-pdfs](https://github-readme-stats.vercel.app/api/pin/?username=cypher-me&repo=merge-pdfs&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/cypher-me/merge-pdfs)
+[![learningc](https://github-readme-stats.vercel.app/api/pin/?username=cypher-me&repo=learningc&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/cypher-me/learningc)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=cypher-me&repo=learning-flexbox&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/cypher-me/learning-flexbox)
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=cypher-me&repo=cypher-me&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/cypher-me/cypher-me)
 

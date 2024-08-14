@@ -92,9 +92,9 @@
 
 ## Top Open Source -
 [![merge-pdfs](https://github-readme-stats.vercel.app/api/pin/?username=cypher-me&repo=merge-pdfs&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/cypher-me/merge-pdfs)
-[![learningc](https://github-readme-stats.vercel.app/api/pin/?username=cypher-me&repo=learningc&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/cypher-me/learningc)
+<!-- [![learningc](https://github-readme-stats.vercel.app/api/pin/?username=cypher-me&repo=learningc&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/cypher-me/learningc)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=cypher-me&repo=learning-flexbox&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/cypher-me/learning-flexbox)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=cypher-me&repo=cypher-me&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/cypher-me/cypher-me)
+[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=cypher-me&repo=cypher-me&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/cypher-me/cypher-me) -->
 
 
 

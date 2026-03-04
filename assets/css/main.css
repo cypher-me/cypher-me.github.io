@@ -50,9 +50,27 @@
 --------------------------------------------------------------*/
 body {
   color: var(--default-color);
+  /* background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0)); */
   background-color: var(--background-color);
   font-family: var(--default-font);
+  position: relative;
 }
+
+/* body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: 
+    radial-gradient(circle at 20% 50%, rgba(5, 99, 187, 0.15) 0%, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(69, 80, 91, 0.1) 0%, transparent 50%);
+  backdrop-filter: blur(100px);
+  -webkit-backdrop-filter: blur(100px);
+  z-index: -1;
+  pointer-events: none;
+} */
 
 a {
   color: var(--accent-color);
@@ -1439,3 +1457,34 @@ section,
   color: var(--accent-color);
 }
 
+
+
+/* Portfolio Cards Uniform Size */
+.portfolio .card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.portfolio .card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.portfolio .card-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.portfolio .card-text {
+  flex: 1;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+
+.portfolio .portfolio-item {
+  margin-bottom: 30px;
+}

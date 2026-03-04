@@ -1,0 +1,64 @@
+{
+    "projects" : {
+        "project1" : {
+            "name" : "InfinityCloudERP – Unified Cloud ERP Platform",
+            "description" : "I built a comprehensive marketing website for InfinityCloudERP, a cloud-based Enterprise Resource Planning (ERP) platform. The objective was to create a trustworthy, information-rich site that clearly communicates the power and flexibility of an ERP solution to businesses of all sizes and across various industries.",
+            "website" : "https://infinityclouderp.lovable.app/",
+            "class" : "filter-app"
+        },
+        "project2" : {
+            "name" : "AptosStream – Global Remittance Platform",
+            "description" : "I designed and developed AptosStream, a concept website for a modern, blockchain-based global remittance service. The primary goal was to create a sleek, dashboard-like interface that feels secure, transparent, and user-friendly, showcasing the key functionality of a digital finance app.",
+            "website" : "https://aptos-stream.lovable.app/",
+            "class" : "filter-app"
+        },
+        "project3" : {
+            "name" : "WAutoBusiness – WhatsApp Business Automation Platform",
+            "description" : "I designed and built the marketing website for WAutoBusiness, a SaaS platform that automates WhatsApp communications for businesses. The core objective was to create a high-conversion, trustworthy landing page that clearly explains the product's value, features, and pricing to potential customers.",
+            "website" : "https://waautobusiness.lovable.app/",
+            "class" : "filter-app"
+        },
+        "project4" : {
+            "name" : "Model Interpretability Framework ",
+            "description" : "I developed a comprehensive educational and practical framework for machine learning model interpretability. Using the classic Iris dataset, the project demonstrates how to explain and visualize the predictions of complex models. The goal was to create a modular, well-documented toolkit that bridges the gap between model training and understanding why models make specific decisions.",
+            "website" : "https://github.com/cypher-me/model-interpretability/",
+            "class" : "filter-product"
+        },"project5" : {
+            "name" : "Sales Forecasting Models – A Multi-Model Time Series Prediction System ",
+            "description" : "I designed and built a comprehensive time series forecasting system to predict daily sales. The project's core goal was to develop, compare, and deploy multiple forecasting models, transforming raw sales data into actionable business insights. It demonstrates a complete workflow from exploratory analysis to a production-ready prediction API.",
+            "website" : "https://github.com/cypher-me/sales-forecasting-models/",
+            "class" : "filter-product"
+        },
+        "project6" : {
+            "name" : "Data Science Portfolio – A Showcase of My Data Science Journey ",
+            "description" : " I created a comprehensive, centralized GitHub repository to serve as the main hub for my data science work. This portfolio is not just a list of projects; it's a carefully organized and documented showcase of my skills, learning path, and technical capabilities across the data science domain. The goal is to provide a clear, professional, and easy-to-navigate overview for potential employers or collaborators.",
+            "website" : "https://github.com/cypher-me/sales-forecasting-models/",
+            "class" : "filter-product"
+        },
+        "project7" : {
+            "name" : "Advanced Intrusion Detection System (IDS) with Web Dashboard ",
+            "description" : "I designed and built a comprehensive, real-time Intrusion Detection System (IDS) as my core academic project for my Bachelor's in Information Security and Forensics. The system combines a powerful Python-based detection engine with a modern, interactive web dashboard to monitor network traffic, detect threats, and visualize attacks as they happen. The primary goal was to create a functional, end-to-end security tool that demonstrates both deep technical knowledge and practical application.",
+            "website" : "https://github.com/cypher-me/advanced-IDR-project",
+            "class" : "filter-cybersecurity"
+        },
+        "project8" : {
+            "name" : "Web Automation Playground – Selenium & Python Practice Project ",
+            "description" : "I created this project as a dedicated space to learn and practice core web automation and UI testing skills. Using Python and Selenium WebDriver, I built a foundational framework to understand automation principles, with the Page Object Model (POM) pattern at its heart for creating maintainable and readable test code.",
+            "website" : "https://github.com/cypher-me/web-automation-playground",
+            "class" : "filter-cybersecurity"
+        },
+        "project9" : {
+            "name" : "Titanic-ML-Explorations – Multi-Language ML Analysis ",
+            "description" : "This project is a classic data science exploration using the famous Titanic dataset. My goal was to investigate survival patterns and experiment with various predictive modeling techniques. A unique aspect is that I implemented the analysis in both R and Python, demonstrating my versatility across data science languages.",
+            "website" : "https://github.com/cypher-me/Titanic-ML-Explorations",
+            "class" : "filter-product"
+        },
+        "project10" : {
+            "name" : "ERPNext Pro – Business ERP Services Website ",
+            "description" : "I designed and built a professional marketing website for ERPNext Pro, a fictional company specializing in the implementation and customization of ERPNext, an open-source ERP platform. The site's purpose is to attract organizations—from companies to NGOs—by clearly explaining the benefits of ERPNext modules and the company's implementation services.",
+            "website" : "https://erpnext-draft.lovable.app/",
+            "class" : "filter-app"
+        }
+
+    }
+}
